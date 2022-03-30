@@ -1,6 +1,6 @@
 <h1> Carlos Parodi </h1>
 <h2 align="center">Developer in Barcelona</h2>
-<h3> - 🎓 I studied in <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer.</h3>
+<h3> - 🎓 I have recently graduated in Web Development at <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer.</h3>
 <h3> - 💻 All of my projects are available at https://github.com/sephoenix?tab=repositories</h3>
 <h3> - 📫 How to reach me: <a href="mailto:se.phoenix@gmail.com">se.phoenix@gmail.com</a>
   
